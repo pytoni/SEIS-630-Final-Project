@@ -14,8 +14,5 @@ Relational Model: Chapter 4 also includes the topic of relational model and ER d
 Database Design: Chapter 5 will describe transformation of the data model into a database design, including the creation of the database schema, description of database relationships, table dictionary and DDL creating tables.
 Database implementation: Chapter 6 will also involve the implementation of the database and the evaluation of its performance and functionality. It will describe the SQL DDL and DML statements for inserting, updating, and deleting tables.
 SQL Views and SQL/PSM: In the second part of Chapter 6, SQL Views and SQL/PSM will be used for the analysis of the database performance metrics.
-Tools used for this project:
 
-Oracle SQL Developer
-Oracle Data Modeler
-Jupyter Notebook
+Tools used for this project: Oracle SQL Developer, Oracle Data Modeler, Jupyter Notebook
